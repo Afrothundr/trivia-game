@@ -1,0 +1,35 @@
+.container {
+	text-align: center;
+}
+
+.row {
+	display: block;
+}
+
+#quiz {
+	margin-top: 5%;
+}
+
+#title {
+	margin-bottom: 40px;
+}
+
+.answers {
+	margin: 0 5px 0 20px;
+}
+
+.answers:focus {
+	background-color: #18C29C;
+}
+
+.questions {
+	margin: 30px 0;
+}
+
+.form-check-input {
+	position: relative;
+}
+
+p {
+	display: inline-block;
+}
